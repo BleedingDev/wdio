@@ -40,8 +40,4 @@ describe("Webdriver & Browser API", () => {
 
     await browser.pause(4000);
   });
-
-  it("debug", async () => {
-    await browser.debug();
-  });
 });

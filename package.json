@@ -18,5 +18,8 @@
   },
   "scripts": {
     "wdio": "wdio run ./test/wdio.conf.ts"
+  },
+  "dependencies": {
+    "wdio-performancetotal-service": "^2.1.2"
   }
 }
